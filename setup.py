@@ -21,5 +21,12 @@ setup(
     author_email="dzhiltsov@me.com",
     description="Coreutils-like kit for headed tab-separated files processing",
     license="PSF",
-    url="https://github.com/zaabjuda/tabkit3"
+    url="https://github.com/zaabjuda/tabkit3",
+    classifiers=[
+        'Intended Audience :: Developers',
+        'License :: OSI Approved :: MIT License',
+        'Programming Language :: Python',
+        'Topic :: Software Development :: Libraries :: Python Modules',
+        'Programming Language :: Python :: 3 :: Only',
+    ]
 )
