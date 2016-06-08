@@ -3,8 +3,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="tabkit",
-    version="0.11",
+    name="tabkit3",
+    version="0.8.0",
     packages=find_packages(),
     entry_points={
         "console_scripts": [
@@ -17,9 +17,9 @@ setup(
             'tpretty = tabkit.scripts:pretty'
         ]
     },
-    author="Andrei Fyodorov",
-    author_email="sour-times@yandex.ru",
+    author="Dmitriy Zhiltsov",
+    author_email="dzhiltsov@me.com",
     description="Coreutils-like kit for headed tab-separated files processing",
     license="PSF",
-    url="https://github.com/andreifyodorov/tabkit"
+    url="https://github.com/zaabjuda/tabkit3"
 )

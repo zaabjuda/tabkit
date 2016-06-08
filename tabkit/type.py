@@ -18,7 +18,7 @@ TabkitTypes = TabkitTypesClass(
     bool=parse_boolean
 )
 
-type_names = {type_: name for name, type_ in TabkitTypes._asdict().iteritems()}
+type_names = {type_: name for name, type_ in TabkitTypes._asdict().items()}
 
 
 def parse_type(type_str):

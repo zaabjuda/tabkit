@@ -1,6 +1,9 @@
 tabkit
 ======
 
+This is fork from original tabkit project (https://github.com/andreifyodorov/tabkit) whith Python 3
+support
+
 A CLI TSV MR kit (a command-line interface tab-separated values map-reduce kit).
 Powered by coreutils.
 

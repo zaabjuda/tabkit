@@ -3,3 +3,4 @@
 /dist
 /tabkit.egg-info
 *.pyc
+.idea/
